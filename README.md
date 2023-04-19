@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Hello! I'm Jordan from England, UK!<br><br>• 🔍 I’m looking for a new front-end developer role!<br>• 📖 I'm currently learning more about Next.js.<br>• 📌 Check out some of my pinned projects!</p>
+<p align="left">Hello! I'm Jordan from England, UK!<br><br>• 🔍 Actively looking for front-end developer roles!<br>• 📖 I'm currently learning more about Next.js.<br>• 📌 Check out some of my pinned projects!</p>
 
 ###
 
